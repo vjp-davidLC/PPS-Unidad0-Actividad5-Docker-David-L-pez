@@ -1,6 +1,4 @@
-# **Sesión 1 - Imágenes**
-
-## Ejercicio para entregar
+# **Sesión 1 - Imágenes - Ejercicios para entregar**
 
 ### Servidor web
 
