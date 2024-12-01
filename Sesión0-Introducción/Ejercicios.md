@@ -1,4 +1,8 @@
-# **Ejercicio para entregar**
+
+
+# **Sesión 0 - Introducción**
+
+## Ejercicio para entregar
 
 Vamos a entregar el ejercicio 4 con algunas modificaciones. Crearemos un contenedor demonio a partir de la imagen nginx, el contenedor se debe llamar servidor_web y se debe acceder a él utilizando el puerto 8181 del ordenador donde tengas instalado docker.
 
