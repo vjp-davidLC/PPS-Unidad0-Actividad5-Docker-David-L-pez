@@ -1,7 +1,11 @@
 # Ejercicio para entregar
+
 ### Servidor web
+
 - Arranca un contenedor que ejecute una instancia de la imagen `php:7.4-apache`, que se llame `web` y que sea accesible desde tu equipo en el puerto 8000.
-![img1](img/img1.PNG)
+  
+  ![img1](img/img1.PNG)
+
 - Colocar en el directorio raíz del servicio web (`/var/www/html`) de dicho contenedor un fichero llamado `index.html` con el siguiente contenido:
 
         `<h1>HOLA SOY XXXXXXXXXXXXXXX</h1>`
@@ -22,7 +26,9 @@ Deberás sustituir XXXXXXXXXXX por tu nombre y tus apellidos.
 
 
     ![img2](img/img2.PNG)
+  
     ![img3](img/img3.PNG)
+  
     ![img4](img/img4.PNG)
 
 ### Servidor de base de datos
