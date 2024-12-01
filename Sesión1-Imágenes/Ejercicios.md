@@ -22,7 +22,9 @@ Deberás sustituir XXXXXXXXXXX por tu nombre y tus apellidos.
 
 
     ![img2](img/img2.PNG)
+  
     ![img3](img/img3.PNG)
+  
     ![img4](img/img4.PNG)
 
 ### Servidor de base de datos
