@@ -1,4 +1,4 @@
-# **Sesión 0 - Introducción**
+# **Sesión 1 - Imágenes**
 
 ## Ejercicio para entregar
 
