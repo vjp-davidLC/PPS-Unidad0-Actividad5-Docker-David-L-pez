@@ -1,4 +1,4 @@
-# **Sesión 0 - Introducción**
+# **Sesión 2 - Almacenamiento - Ejercicios para entregar**
 
 ## Ejercicio para entregar
 
