@@ -15,6 +15,7 @@
 4. Copia o crea un fichero index.html al contenedor c1, accede al contenedor y comprueba que se está visualizando.
 
 ![img2](img/img2.PNG)
+
 ![img3](img/img3.PNG)
 
 5. Borra el contenedor c1 y crea un contenedor c3 con las mismas características que c1 pero sirviendo en el puerto 808.
@@ -28,11 +29,16 @@ Deberás entregar los siguientes pantallazos comprimidos en un zip o en un docum
 
 - Pantallazo con la orden correspondiente para arrancar el contenedor c2 usando el volumen_datos.
 ![img6](img/img6.PNG)
+
 - Pantallazo donde se vea el proceso para poder borrar el volumen_datos.
-![img7](img/img7.PNG)
+
+  ![img7](img/img7.PNG)
+
 - Pantallazo donde se vea el borrado de c1 y la creación de c3.
+  
 ![img8](img/img8.PNG)
 ![img9](img/img9.PNG)
+
 - Pantallazo donde se vea el acceso al contenedor c3.
 ![img10](img/img10.PNG)
 
