@@ -15,6 +15,7 @@
 4. Copia o crea un fichero index.html al contenedor c1, accede al contenedor y comprueba que se está visualizando.
 
 ![img2](img/img2.PNG)
+
 ![img3](img/img3.PNG)
 
 5. Borra el contenedor c1 y crea un contenedor c3 con las mismas características que c1 pero sirviendo en el puerto 808.
