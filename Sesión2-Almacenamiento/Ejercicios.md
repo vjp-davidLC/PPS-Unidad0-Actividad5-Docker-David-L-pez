@@ -31,7 +31,7 @@ Deberás entregar los siguientes pantallazos comprimidos en un zip o en un docum
 ![img6](img/img6.PNG)
 
 - Pantallazo donde se vea el proceso para poder borrar el volumen_datos.
-![img7](img/img7.PNG)
+  ![img7](img/img7.PNG)
 
 - Pantallazo donde se vea el borrado de c1 y la creación de c3.
 ![img8](img/img8.PNG)
