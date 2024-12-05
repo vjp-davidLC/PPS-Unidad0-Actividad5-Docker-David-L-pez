@@ -1,6 +1,5 @@
 # **Sesión 2 - Almacenamiento - Ejercicios para entregar**
 
-## Ejercicio para entregar
 
 ### Servidor web
 
