@@ -1,4 +1,4 @@
-# **Sesión 4 - Escenarios multicontenedor - Ejericios para entregar**
+# **Sesión 4 - Escenarios multicontenedor - Ejercicios para entregar**
 
 ### Despliegue de Nextcloud
 Vamos a desplegar la aplicación nextcloud con una base de datos (puedes elegir mariadb o PostgreSQL) utilizando la aplicación docker-compose. Puedes coger cómo modelo el fichero docker-compose.yml el que hemos estudiado para desplegar WordPress.
