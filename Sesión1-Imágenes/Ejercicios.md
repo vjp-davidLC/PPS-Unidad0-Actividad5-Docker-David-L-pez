@@ -1,4 +1,4 @@
-# **Sesión 2 - Almacenamiento - Ejercicios para entregar**
+# **Sesión 1 - Imágenes - Ejercicios para entregar**
 
 
 ### Servidor web

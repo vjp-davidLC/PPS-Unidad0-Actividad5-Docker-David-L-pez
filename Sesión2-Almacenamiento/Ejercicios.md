@@ -18,7 +18,7 @@
 
 ![img3](img/img3.PNG)
 
-5. Borra el contenedor c1 y crea un contenedor c3 con las mismas características que c1 pero sirviendo en el puerto 808.
+5. Borra el contenedor c1 y crea un contenedor c3 con las mismas características que c1 pero sirviendo en el puerto 8081.
 
 Deberás entregar los siguientes pantallazos comprimidos en un zip o en un documento pdf:
 
