@@ -8,3 +8,4 @@
 - [Sesión 1 - Imágenes](Sesión1-Imágenes/Ejercicios.md)
 - [Sesión 2 - Almacenamiento](Sesión2-Almacenamiento/Ejercicios.md)
 - [Sesión 3 - Redes](Sesion3-Redes/Ejercicios.md)
+- [Sesión 4 - Escenarios Multicontenedor](Sesion4-Escenarios/Ejercicios.md)
