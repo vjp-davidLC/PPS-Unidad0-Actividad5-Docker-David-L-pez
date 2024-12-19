@@ -1,4 +1,4 @@
-# **Sesión 5 - Creación de Imágenes - Ejericios para entregar**
+# **Sesión 5 - Creación de Imágenes - Ejercicios para entregar**
 
 ### Creación de una imagen a partir de un contenedor
 
